@@ -1,0 +1,10 @@
+http://winhelp2002.mvps.org/hosts.txt
+https://hosts-file.net/ad_servers.txt
+https://adaway.org/hosts.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://gist.githubusercontent.com/eyecatchup/ba7dc7a50d90cbf6377d/raw/752b13b2532c8458e87fa1a1979962d0a312ebe8/hosts
+https://gist.githubusercontent.com/Shahor/61afb4bed4dcf6feb034/raw/ea824beeb03ff8a44f6a297f1e532ed37b231152/win%252010%2520hosts%2520
+https://raw.githubusercontent.com/Forsaked/hosts/master/hosts
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
