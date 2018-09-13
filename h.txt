@@ -8,5 +8,6 @@ https://raw.githubusercontent.com/Forsaked/hosts/master/hosts
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/update.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt
+https://www.encrypt-the-planet.com/downloads/hosts
 #http://www.malwaredomainlist.com/hostslist/hosts.txt
 #https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
